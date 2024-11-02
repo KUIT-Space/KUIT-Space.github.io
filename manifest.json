@@ -1,7 +1,7 @@
 {
   "name": "Space Project",
   "short_name": "Space",
-  "start_url": "/login",
+  "start_url": "/KUIT-Space-front/login",
   "display": "standalone",
   "icons": [
     {
